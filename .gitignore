@@ -151,3 +151,4 @@ data/
 logs/
 /services/backend/id_to_embedding.pkl
 /services/db/
+/services/db/02_rest.sql
